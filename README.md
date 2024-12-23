@@ -39,7 +39,7 @@ pivotIndex.cpp
    ```
 2. Navigate to the problem file you want to run. For example:
    ```bash
-   g++ twoSum.cpp -o two-sum
+   g++ twoSum.cpp -o twoSum
    ./twoSum
    ```
 
