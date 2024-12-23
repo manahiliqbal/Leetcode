@@ -10,6 +10,7 @@ public:
     
         for (int i = 0; i < nums.size(); ++i) {
             // Right sum would be total_sum - left_sum - nums[i]
+            
             if (left_sum == total_sum - left_sum - nums[i]) {
                 return i;
             }
