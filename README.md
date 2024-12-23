@@ -34,8 +34,8 @@ pivotIndex.cpp
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/leetcode-cpp-solutions.git
-   cd leetcode-cpp-solutions
+   git clone https://github.com/manahiliqbal/Leetcode.git
+   cd Leetcode
    ```
 2. Navigate to the problem file you want to run. For example:
    ```bash
