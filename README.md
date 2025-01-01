@@ -8,7 +8,7 @@ This repo contains my solutions to various LeetCode problems implemented in **C+
 
 - **Comprehensive Solutions**: Each solution is written in clean, modular C++ code.
 - **Optimized Implementations**: Solutions are optimized for both time and space complexity where possible.
-- **Variety of Topics**: Covers algorithms, data structures, dynamic programming, and more.
+- **Variety of Topics**: Covers algorithms, data structures, dynamic programming, hashmaps and more.
 
 ---
 
